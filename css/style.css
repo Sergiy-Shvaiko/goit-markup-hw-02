@@ -89,8 +89,14 @@ p {
   padding: 16px 32px;
 
   background: #4d5ae5;
+
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
-.order-servise-btn:hover {
+.order-servise-btn:hover,
+.order-servise-btn:focus {
   background: #404bbf;
 }
 .order-btn {
