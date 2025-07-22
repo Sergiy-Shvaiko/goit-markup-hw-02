@@ -49,6 +49,9 @@ p {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.astudio {
+  color: #2e2f42;
+}
 .astudio:hover,
 .astudionavz:focus {
   color: #404bbf;
