@@ -18,11 +18,9 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-.logo-web {
   color: #4d5ae5;
 }
-.logo-studio {
+.studio {
   color: #2e2f42;
 }
 
@@ -55,7 +53,7 @@ p {
 .nav > li > a:focus {
   color: #404bbf;
 }
-.mail-tel {
+.addrs {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
