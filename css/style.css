@@ -52,7 +52,9 @@ p {
 .astudio {
   color: #2e2f42;
 }
-.astudio:hover,
+.astudio:hover {
+  color: #404bbf;
+}
 .astudionavz:focus {
   color: #404bbf;
 }
@@ -61,9 +63,13 @@ p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.mail-tel {
   color: #434455;
 }
-.mail-tel:hover,
+.mail-tel:hover {
+  color: #404bbf;
+}
 .mail-tel:focus {
   color: #404bbf;
 }
