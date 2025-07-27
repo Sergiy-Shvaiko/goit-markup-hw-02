@@ -103,7 +103,8 @@ p {
   font-size: 16px;
   color: #ffffff;
 }
-.feature-title {
+/* s2 */
+.f-title {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -132,13 +133,7 @@ p {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.portfolio {
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
+
 .card-team {
   background-color: #ffffff;
   width: 264px;
