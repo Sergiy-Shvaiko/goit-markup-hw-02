@@ -103,12 +103,12 @@ p {
   font-size: 16px;
   color: #ffffff;
 }
-.feature-title .team-name .portfolio-title {
+.feature-title {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.text {
+.feature-descpt {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
