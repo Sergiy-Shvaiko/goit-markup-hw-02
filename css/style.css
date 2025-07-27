@@ -103,7 +103,7 @@ p {
   font-size: 16px;
   color: #ffffff;
 }
-.feature-title {
+.feature-title .text {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -115,12 +115,12 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.sec-team {
+.sec-git team {
   background-color: #f4f4fd;
 }
 
 /* h2 */
-.team-title {
+.team-title .portfolio {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -133,10 +133,13 @@ p {
   line-height: 1.2;
 }
 
-.team-name {
-  line-height: 1.11;
+.team-name .portfolio-title {
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.text {
 }
 .foot {
   background-color: #2e2f42;
