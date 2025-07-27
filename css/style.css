@@ -87,9 +87,7 @@ p {
 .order-servise-btn {
   border-radius: 4px;
   padding: 16px 32px;
-
   background: #4d5ae5;
-
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -153,8 +151,8 @@ p {
   background-color: #2e2f42;
 }
 .studio-w {
-  color: #ffffff;
+  color: #f4f4fd;
 }
-.foot > p {
+.p-text {
   color: #f4f4fd;
 }
