@@ -85,8 +85,8 @@ p {
   color: #ffffff;
 }
 .order-servise-btn {
-  border-radius: 4px;
-  padding: 16px 32px;
+  /* border-radius: 4px;
+  padding: 16px 32px; */
   background: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
